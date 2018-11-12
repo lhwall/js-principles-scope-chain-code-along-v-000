@@ -1,6 +1,6 @@
 /* Your code goes here */
-var customerName 
+var customerName
 
-function upperCaseCustomerName()
+function upperCaseCustomerName(){
   customerName.toUpperCase()
-  end 
+}
